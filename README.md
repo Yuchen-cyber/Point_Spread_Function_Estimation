@@ -1,5 +1,5 @@
 # Point_Spread_Function_Estimation
-This repository contains two point spread fuctions(psf) using convolutional neural networks.
+This repository contains two point spread fuctions(psf) estimation using convolutional neural networks.
 1. The first psf is gaussian psf used to deblur the galaxy images.
 2. The second psf is Photoacoustic Computed Tomography psf (PACT psf) used to reconstruct the medical images.
 
