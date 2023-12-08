@@ -1,3 +1,6 @@
+"""
+The code for generating the psf ground truth images are modified from https://github.com/Lukeli0425/LR-PSF.
+"""
 import csv
 import torch
 import numpy as np
